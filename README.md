@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/55f7e136-9fa5-44a3-b61a-41217ba758f8)
+-------------------------------------------------
 i usually run this via VSC but you can run it how you want
 -------------------------------------------------
 PIP`S USED
@@ -25,3 +27,4 @@ import asyncio
 Install the with this
 --------------------------------------------------
 pip install nextcord requests beautifulsoup4 tk
+
